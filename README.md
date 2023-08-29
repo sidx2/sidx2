@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/siddheshpardeshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejpatade" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/DevilsAlgorithm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejsus" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sid2" target="blank"><img align="center" src="https://raw.githubusercontent.com/sidx2/sidx/main/images/codeforces-logo.png" alt="codeforces" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
